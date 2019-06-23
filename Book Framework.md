@@ -19,6 +19,10 @@ An effective open source license is one which allows for broad use, modification
 * The birth of the internet, and how open source accelerated the growth.
 
 ### 2000 - Free culture movement and big corp
+* The free culture movement started with Creative Commons and Lawrence Lessig that published the book Free Culture in 2001(Stemmer dette?)
+* Open source software is also underneath the technologies that power Google, Facebook, Youtube, Twitter and many other products you use every day. Visit opensource.google.com for more information about how Google uses and supports open source.
+* The story of how Android changed the mobile industry
+
 ### 2010 - Preserving the core of the web
 ### 2000 - Free culture movement and big corp
 ### 2010 - Preserving the core of the web
