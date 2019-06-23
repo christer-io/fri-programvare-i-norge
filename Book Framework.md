@@ -5,6 +5,10 @@ Open source and the movement that grew out of the Free software movement in the 
 * Difference and conflict
 * Important people and organizations
 
+## A sharing culture that is not tech
+* Dugnad, Allmenning
+* Turistforeningen med 500 hytter som holdes vedlike på basert på et litt anderledes community 
+
 ### Open source licenses
 An effective open source license is one which allows for broad use, modification, and sharing of the code, without onerous restrictions. Ambiguous or vague licenses that don't explicitly grant the rights protected by copyright are problematic because they're open to interpretation. Additionally, if you're not absolutely certain you can comply with the obligations of a software license, you probably shouldn't use the software. If there is ever a legal challenge, you don't want to have to worry about the outcome. The most popular licences are the MIT, GPL, and Apache. The best way to avoid wondering if a particular license is safe to use is to choose one of these generally accepted licenses. They've undergone rigorous review by the open source legal community. For things that aren't code, such as documentation or artwork, Creative Commons provides a useful suite of licenses.
 
