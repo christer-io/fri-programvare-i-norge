@@ -28,6 +28,7 @@ An effective open source license is one which allows for broad use, modification
 * The story of how Android changed the mobile industry
 
 ### 2010 - Preserving the core of the web
+Big corp and government working to control the web.
 
 ## The free culture movement
 
