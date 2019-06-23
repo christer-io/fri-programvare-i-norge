@@ -38,6 +38,8 @@ An effective open source license is one which allows for broad use, modification
 
 ### Can anyone earn money from open source?
 
+### Vendor lock-in
+
 ## people and resources
 * Petter Reinholdtsen
 * Per Buer
