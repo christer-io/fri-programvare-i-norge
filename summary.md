@@ -1,4 +1,4 @@
-# open can change the world
+# Kronikk etter at Friprogsenteret ble lagt ned - kan brukes som idegrunnlag
 
 Friprogsenteret har jobbet mot offentlig og privat sektor i perioden fra 2007 til dags dato. Vårt oppdrag har vært å bidra til økt bruk av fri programvare og informere om mulighetene som ligger i gjenbruk, deling og samarbeid.
 
