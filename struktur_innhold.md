@@ -1,5 +1,12 @@
 
-## Historien 1980 - 2020
+## Grunnleggenede tematikk og vinkling
+
+Mulige kapitler og temaer:
+* Fri programvare som filosofi og metode
+* Delingskultur og "platformkultur" er på ingen måte det samme(Uber og AirBnB er ikke delingskultur)
+* Hvorfor og hvordan har fri programvare vokst fra "gutterommet" til verdensherredømme
+
+## Historien 1980 - 2020(Kapittel under utvikling)
 ### 80 
 Grunnmuren for en global bevegelse etableres gjennom arbeidet til Richard Stallmann og FSF.
 
