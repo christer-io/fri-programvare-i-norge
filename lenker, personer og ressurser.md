@@ -25,7 +25,13 @@
 * https://opensource.com/
 * https://opensource.dev/
 * https://www.fsf.org/
- 
+
+
+## Relevante saker i media
+* IBM kjøper Redhat, https://www.digi.no/artikler/historiens-storste-software-oppkjop-er-godkjent-punger-ut-294-milliarder-kroner/469517?utm_source=newsletter-digidaily&utm_medium=email&utm_campaign=newsletter-2019-07-10
+* Microsoft kjøper Github, https://www.digi.no/artikler/bloomberg-microsoft-har-kjopt-opp-github/438948
+* Kronikk etter nedeleggelse av Friprogsenteret, https://www.digi.no/artikler/fra-gutterom-tilverdensherredomme/288037
+
 
 ## Organisasjoer
 ### Universitetet i Oslo
