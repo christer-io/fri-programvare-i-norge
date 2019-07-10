@@ -8,7 +8,7 @@
 * Petter Reinholtsen
 * Dag Aasheim
 * Trond Trosterud
-* Personer rundt Open PGP
+* Ståle Schumacher, http://www.schumacher.no, om eksporten av PGP på slutten av 1990-tallet.
 
 ## Personer internasjonalt
 * Richard Stallmann
