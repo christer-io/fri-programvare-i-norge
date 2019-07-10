@@ -1,2 +1,2 @@
-# open
-In this project the goal is to write a book about the open source movement in Norway.
+# Fri programvare i et norsk perspektiv
+Jeg er igang med et prosjekt hvor målet er å skrive en bok om fri programvare i et norsk perspektiv. I tillegg til en bok i tradisjonell forstand skal vi gjøre video-intervjuer av relevante mennesker både i Norge og internasjonalt. Vi jobber nå med å sette opp en struktur og et rammeverk for temaer som vi kunne tenke oss å dekke. Fokuset i denne fasen er å bygge en struktur samt gjøre research på relevante ressurser og lenker. 
