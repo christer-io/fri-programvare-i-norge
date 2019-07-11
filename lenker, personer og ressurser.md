@@ -9,6 +9,8 @@
 * Dag Aasheim
 * Trond Trosterud
 * Ståle Schumacher, http://www.schumacher.no, om eksporten av PGP på slutten av 1990-tallet.
+* Stig S. Bakken (PHP)
+* Gisle Aas (Perl)
 
 ## Personer internasjonalt
 * Richard Stallmann
