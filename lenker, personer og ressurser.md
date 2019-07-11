@@ -28,6 +28,7 @@
 
 
 ## Relevante saker i media
+* https://www.fastcompany.com/90371978/when-microsoft-was-the-tech-monopoly-everyone-loved-to-hate?partner=rss&utm_source=facebook.com&utm_medium=social&utm_campaign=rss+fastcompany&utm_content=rss&fbclid=IwAR3vHEUrHc0GLPNCM9BtFIneDxV0rD2wylDfyWM_XBH3I6bzp0KxH6_Vc0A
 * https://www.vox.com/the-highlight/2019/6/3/18271538/open-access-elsevier-california-sci-hub-academic-paywalls?fbclid=IwAR0DKH3JVPMA7EUps1uxzhlxSND2bduJgPAltxEapKeRjv3-eAppam1mZBI
 * https://www.unit.no/aktuelt/unit-inngar-historisk-avtale-med-elsevier
 * IBM kjøper Redhat, https://www.digi.no/artikler/historiens-storste-software-oppkjop-er-godkjent-punger-ut-294-milliarder-kroner/469517?utm_source=newsletter-digidaily&utm_medium=email&utm_campaign=newsletter-2019-07-10
