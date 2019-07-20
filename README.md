@@ -1,3 +1,4 @@
+#Fri programvare i Norge
 Jeg er igang med et prosjekt hvor jeg skal skrive en bok om fri programvare i et norsk perspektiv. I tillegg til en bok i tradisjonell forstand skal jeg gjøre intervjuer av relevante mennesker både i Norge og internasjonalt som både publiseres som tekst og video.
 
 Målet er å fortelle historien om hvordan fri programvare miljøet globalt og i Norge har bidratt til en teknologisk utvikling fra 80-tallet og frem til idag som er tuftet på en ide om deling, gjenbruk og aktivt digitalt samarbeid. Arbeidstittel for boken er “Fra gutterom til verdensherredømme”, en tittel jeg brukte første gang på en kronikk som ble publisert på Digi.no i 2014. 
