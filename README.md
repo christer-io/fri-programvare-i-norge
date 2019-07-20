@@ -1,4 +1,4 @@
-#Fri programvare i Norge
+# Fri programvare i Norge
 
 Jeg er igang med et prosjekt hvor jeg skal skrive en bok om fri programvare i et norsk perspektiv. I tillegg til en bok i tradisjonell forstand skal jeg gjøre intervjuer av relevante mennesker både i Norge og internasjonalt som både publiseres som tekst og video.
 
