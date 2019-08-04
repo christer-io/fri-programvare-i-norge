@@ -12,4 +12,4 @@ Boken vil ha et kapittel som går gjennom den historiske tidslinjen til fri prog
 
 
 Prosjektet er støttet av Nuug Foundation.
-![the logo of Nuug Foundation](https://github.com/christer-io/fri-programvare-i-norge/Ressurser/Bilder/main_logo_double.png "Nuug Foundation Logo")
+![the logo of Nuug Foundation](https://github.com/christer-io/fri-programvare-i-norge/blob/master/Ressurser/Bilder/main_logo_double.png "Nuug Foundation Logo")
