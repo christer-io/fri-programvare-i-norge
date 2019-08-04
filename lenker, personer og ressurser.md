@@ -11,16 +11,18 @@
 * Ståle Schumacher, http://www.schumacher.no, om eksporten av PGP på slutten av 1990-tallet.
 * Stig S. Bakken (PHP)
 * Gisle Aas (Perl)
-
-## Personer internasjonalt
-* Richard Stallmann
-* Bruce Perence
 * Håkon W. Lie
 * Kjetil Kjernsmo
 * Vint Cerf
 * Salve Nilsen
 * Lantangen(Død)
 * Dag Langmyhr(IFI, UIO)
+
+## Personer internasjonalt
+* Richard Stallmann
+* Bruce Perence
+* Cable Green
+
 
 ## Lenker
 * https://www.openhub.net/
@@ -30,6 +32,7 @@
 
 
 ## Relevante saker i media
+* https://www.norskfriluftsliv.no/hva-er-allemannsretten/
 * https://www.fastcompany.com/90371978/when-microsoft-was-the-tech-monopoly-everyone-loved-to-hate?partner=rss&utm_source=facebook.com&utm_medium=social&utm_campaign=rss+fastcompany&utm_content=rss&fbclid=IwAR3vHEUrHc0GLPNCM9BtFIneDxV0rD2wylDfyWM_XBH3I6bzp0KxH6_Vc0A
 * https://www.vox.com/the-highlight/2019/6/3/18271538/open-access-elsevier-california-sci-hub-academic-paywalls?fbclid=IwAR0DKH3JVPMA7EUps1uxzhlxSND2bduJgPAltxEapKeRjv3-eAppam1mZBI
 * https://www.unit.no/aktuelt/unit-inngar-historisk-avtale-med-elsevier
@@ -56,6 +59,3 @@
 ### Software Freedom Conservancy
 ### Software Freedom Law Center
 ### Creative Commons
-
-
-
