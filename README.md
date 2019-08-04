@@ -11,8 +11,8 @@ Boken vil ha minst et kapittel som tar for seg bevegelser og prosjekter som har 
 Boken vil ha et kapittel som går gjennom den historiske tidslinjen til fri programvare og åpen kildekode. Jeg har valgt å starte den historiske oppsummeringen fra 80-tallet men vil ta med elementer fra tidligere Norske prosjekter i den grad det er relevant.
 
 
-Prosjektet er støttet av Nuug Foundation.
-
-![logo of Nuug Foundation][logo]
+Prosjektet er støttet av Nuug Foundation. ![logo of Nuug Foundation][logo]
 
 [logo]:(https://github.com/christer-io/fri-programvare-i-norge/blob/master/Ressurser/Bilder/nuugf_neg_290x90.png "Nuug Foundation Logo")
+
+
