@@ -42,6 +42,7 @@
 * Microsoft kjøper Github, https://www.digi.no/artikler/bloomberg-microsoft-har-kjopt-opp-github/438948
 * Kronikk etter nedeleggelse av Friprogsenteret, https://www.digi.no/artikler/fra-gutterom-tilverdensherredomme/288037
 * https://oaspa.org/growth-continues-for-oaspa-member-oa-content/?fbclid=IwAR3C4V9QxWhLYLrgU39aZFmSb6FuRnLK2ovP2StnWcMhrl1Y1wtig-nxs2o
+* https://ec.europa.eu/digital-single-market/en/news/workshop-about-future-open-source-software-and-open-source-hardware
 
 
 ## Organisasjoer
