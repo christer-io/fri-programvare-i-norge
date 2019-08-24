@@ -44,6 +44,7 @@
 * https://oaspa.org/growth-continues-for-oaspa-member-oa-content/?fbclid=IwAR3C4V9QxWhLYLrgU39aZFmSb6FuRnLK2ovP2StnWcMhrl1Y1wtig-nxs2o
 * https://ec.europa.eu/digital-single-market/en/news/workshop-about-future-open-source-software-and-open-source-hardware
 https://www.digi.no/artikler/nytt-initiativ-gigantene-slar-seg-sammen-om-sikrere-data-i-nettskyen/472140
+* https://www.aftenbladet.no/meninger/kommentar/i/2GXolx/Facebook-er-en-samfunnsfiende?fbclid=IwAR0__Te0PBQj9eYbnPZAafCrG7CRbl3HDJ4uCMSyqvsrz8e9j_BVrDiplNA
 
 
 ## Organisasjoer
