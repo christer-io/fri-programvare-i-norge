@@ -29,6 +29,8 @@
 * https://opensource.com/
 * https://opensource.dev/
 * https://www.fsf.org/
+* https://contractfortheweb.org/draft-07-2019/?mc_cid=40e21967e9&mc_eid=18f0329200
+
 
 
 ## Relevante saker i media
@@ -45,6 +47,7 @@
 * https://ec.europa.eu/digital-single-market/en/news/workshop-about-future-open-source-software-and-open-source-hardware
 https://www.digi.no/artikler/nytt-initiativ-gigantene-slar-seg-sammen-om-sikrere-data-i-nettskyen/472140
 * https://www.aftenbladet.no/meninger/kommentar/i/2GXolx/Facebook-er-en-samfunnsfiende?fbclid=IwAR0__Te0PBQj9eYbnPZAafCrG7CRbl3HDJ4uCMSyqvsrz8e9j_BVrDiplNA
+* https://www.wired.co.uk/article/inrupt-tim-berners-lee 
 
 
 ## Organisasjoer
