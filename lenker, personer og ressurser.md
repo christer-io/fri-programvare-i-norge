@@ -48,6 +48,7 @@
 https://www.digi.no/artikler/nytt-initiativ-gigantene-slar-seg-sammen-om-sikrere-data-i-nettskyen/472140
 * https://www.aftenbladet.no/meninger/kommentar/i/2GXolx/Facebook-er-en-samfunnsfiende?fbclid=IwAR0__Te0PBQj9eYbnPZAafCrG7CRbl3HDJ4uCMSyqvsrz8e9j_BVrDiplNA
 * https://www.wired.co.uk/article/inrupt-tim-berners-lee 
+* https://www.digi.no/artikler/microsoft-hever-prisene-igjen-denne-gangen-gar-det-hardt-utover-de-som-bruker-aws-og-googles-skytjenester/473419
 
 
 ## Organisasjoer
