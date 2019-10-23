@@ -2,6 +2,7 @@
 
 * Hvordan bygge community?
 * Aktivt forhold til Open source - bedrifter - innersourceing
+* Open Source i offentlig sektor
 * Hva er egentlig fri programvare og hvorfor menere du fri programvare er viktig for Norge? Offentlig sektor, bedrifter, skoler og privatepersoner.
 * Hva er forskjellen på fri programvare og åpen kildekode?
 * Hvor står egentlig fri programvare i Norge?
