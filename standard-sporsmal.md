@@ -11,5 +11,6 @@
 I 2001 kom Steve Balmer fra Microsoft med en berømt kommentar: “Open source is cancer”. 15 år senere kjøper Microsoft Github for 60 milliarder kroner. 
 Hva skjedde i mellomtiden?
 
+
 Spesielt for Petter:
 * Fortell litt om Fiks Gata Mi
