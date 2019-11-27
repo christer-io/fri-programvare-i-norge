@@ -5,23 +5,24 @@
 * Anton Eliassen
 * Per Buer
 * Jørund Leknes
-* Petter Reinholtsen
+* Petter Reinholtsen(Har sagt ja)
 * Dag Aasheim
 * Trond Trosterud
 * Ståle Schumacher, http://www.schumacher.no, om eksporten av PGP på slutten av 1990-tallet.
 * Stig S. Bakken (PHP)
-* Gisle Aas (Perl)
-* Håkon W. Lie
-* Kjetil Kjernsmo
-* Vint Cerf
-* Salve Nilsen
-* Lantangen(Død)
+* Kjetil Kjernsmo(Har sagt ja)
+* Salve Nilsen(Har sagt ja)
 * Dag Langmyhr(IFI, UIO)
+* Gisle Hannemyr(har sagt ja)
+* Martin Bekkelund
+* Svein-Tore Griff(har sagt ja) - leder av H5P - brukt av over 100 mill brukere. 
+
 
 ## Personer internasjonalt
-* Richard Stallmann
+* Eben Moglen(erstatter Richard Stallman)
+* Tim Berners-Lee
 * Bruce Perence
-* Cable Green
+* Cable Green(har sagt ja)
 
 
 ## Lenker
