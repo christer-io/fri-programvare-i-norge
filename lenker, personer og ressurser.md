@@ -15,6 +15,7 @@
 * Dag Langmyhr(IFI, UIO)
 * Gisle Hannemyr(har sagt ja)
 * Martin Bekkelund
+* Lasse Andresen, ForgeRock
 * Svein-Tore Griff(har sagt ja) - leder av H5P - brukt av over 100 mill brukere. 
 
 
