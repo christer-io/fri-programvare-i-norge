@@ -3,7 +3,7 @@
 
 ## Personer
 * Anton Eliassen
-* Per Buer
+* Per Buer(Har sagt ja)
 * Jørund Leknes
 * Petter Reinholtsen(Har sagt ja)
 * Dag Aasheim
@@ -15,7 +15,7 @@
 * Dag Langmyhr(IFI, UIO)
 * Gisle Hannemyr(har sagt ja)
 * Martin Bekkelund
-* Lasse Andresen, ForgeRock
+* Lasse Andresen, ForgeRock (Har sagt ja)
 * Svein-Tore Griff(har sagt ja) - leder av H5P - brukt av over 100 mill brukere. 
 
 
