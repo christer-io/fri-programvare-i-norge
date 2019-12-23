@@ -52,6 +52,7 @@ https://www.digi.no/artikler/nytt-initiativ-gigantene-slar-seg-sammen-om-sikrere
 * https://www.wired.co.uk/article/inrupt-tim-berners-lee 
 * https://www.digi.no/artikler/microsoft-hever-prisene-igjen-denne-gangen-gar-det-hardt-utover-de-som-bruker-aws-og-googles-skytjenester/473419
 * https://creativecommons.org/about/program-areas/education-oer/
+* https://www.tek.no/nyheter/nyhet/i/1nzW5X/meldingsapp-avslrt-som-spioneringsapp
 
 
 ## Organisasjoer
