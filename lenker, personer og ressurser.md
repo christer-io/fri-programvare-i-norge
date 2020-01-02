@@ -53,6 +53,7 @@ https://www.digi.no/artikler/nytt-initiativ-gigantene-slar-seg-sammen-om-sikrere
 * https://www.digi.no/artikler/microsoft-hever-prisene-igjen-denne-gangen-gar-det-hardt-utover-de-som-bruker-aws-og-googles-skytjenester/473419
 * https://creativecommons.org/about/program-areas/education-oer/
 * https://www.tek.no/nyheter/nyhet/i/1nzW5X/meldingsapp-avslrt-som-spioneringsapp
+* https://opensource.com/article/20/1/open-source-alternatives?sc_cid=7016000000127ECAAY&fbclid=IwAR1O91GvgOhTL5jOsQgv9Mx7u0UW9QgFD-rvvGU_14AtC7VZuUOkEZ26jA0
 
 
 ## Organisasjoer
