@@ -27,6 +27,7 @@
 
 
 ## Lenker
+* https://medium.com/team-per-la-trasformazione-digitale/open-source-guidelines-for-acquisition-reuse-software-in-italian-public-administration-d6d5997d3e51
 * https://www.openhub.net/
 * https://opensource.com/
 * https://opensource.dev/
