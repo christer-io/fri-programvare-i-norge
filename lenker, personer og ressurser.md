@@ -37,6 +37,7 @@
 
 
 ## Relevante saker i media
+* https://www.economist.com/business/2020/04/21/microsoft-embraces-open-data
 * https://www.norskfriluftsliv.no/hva-er-allemannsretten/
 * https://www.gnu.org/philosophy/open-source-misses-the-point.html
 * https://opensource.com/article/17/11/open-source-or-free-software
