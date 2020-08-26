@@ -5,6 +5,9 @@ Vær imidlertid oppmerksom på at kommersiell ikke er den samme som proprietær 
 
 Spesielt krever fri programvare lisenser i kategorien "copyleft" at du distribuerer programvaren under den samme lisensen du mottok den under.
 
+## Kan jeg selge fri programvare selv om jeg ikke har skrevet koden?
+Ja det kan du. Men avhengig av lisensen, kan du mest sannsynligvis ikke hindre andre i å selge den på samme måte som deg. Hvis du selger en tjeneste som er bygget på fri programvare som tillater proprietære derivater kan du selge "produktet" dele kildekoden knyttet til derivatet. For fri programvare under kategorien "copyleft" kan du ikke gjøre dette.
+
 ### Er all fri programvare “gratis”?
 En av fordelene med programvare delt under en fri lisens er at den i utgangspunktet ikke koster penger. “Gratis” er imidlertid mer et biprodukt av Fri programvare og dens totale verdi.
 
