@@ -29,6 +29,9 @@ Nei. Uttrykket "åpen" ble tidligere brukt av noen miljøer om kildekode for å 
 
 ### Finnes det noen definisjon på hva fri programvare er?
 Den originale definisjonen ble utviklet av Free Software Foundation(FSF). De har laget er en kort, fire-punkts definisjon av programvare friheter. Det er den samme som blir brukt i introduksjonen på GoOpen.no. Open Source Initiative(OSI) bruker en lengre, ti-punkts definisjon. De to definisjonene fører til samme resultat i praksis, men bruker overfladisk forskjellige språk for å definere noen grunnleggende prinsipper. 
+* https://www.gnu.org/philosophy/free-sw.html 
+* https://opensource.org/osd
+
 
 ### Hva er "copyleft"? Er det det samme som "fri programvare"?
 "Copyleft" refererer til en type lisenser som tillater derivater, men som samtidig krever at de bruker samme lisens som det originale verket. Hvis du for eksempel skriver litt programvare og gir den ut under GNU General Public License (en mye brukt copyleft-lisens), og deretter noen andre endrer programvaren og distribuerer sin modifiserte versjon, må den endrede versjonen også være lisensiert under GNU GPL - inkludert ny kode skrevet spesielt for å gå inn i den endrede versjonen. 
