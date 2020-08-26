@@ -6,13 +6,13 @@ Vær imidlertid oppmerksom på at kommersiell ikke er den samme som proprietær 
 Spesielt krever fri programvare lisenser i kategorien "copyleft" at du distribuerer programvaren under den samme lisensen du mottok den under.
 
 ### Er all fri programvare “gratis”?
-En av fordlene med programvare delt under en fri lisens er at den i utgangspunktet ikke koster penger. “Gratis” er imidlertid mer et biprodukt av fri programvare og dens totale verdi.
+En av fordelene med programvare delt under en fri lisens er at den i utgangspunktet ikke koster penger. “Gratis” er imidlertid mer et biprodukt av Fri programvare og dens totale verdi.
 
 Fordi en fri programvare lisens krever at hvem som helst kan bruke, endre og dele koden for ethvert formål, har prosjekter selv en tendens til å være gratis. Hvis produkt som lages ut fra fri programvare koster penger å bruke, kan hvem som helst lovlig lage en kopi og bruke gratisversjonen i stedet.
 
-Som et resultat er de fleste fri programvare prosjekter gratis, men "gratis" er ikke en del av fri programvare definisjonen. Det er mange måter å ta betalt for fri programvare indirekte gjennom dobbelt lisensiering eller begrensede funksjoner, mens man fremdeles overholder den offisielle definisjonen av fri programvare.
+Som et resultat er de fleste fri programvare prosjekter gratis, men "gratis" er ikke en del av fri programvare definisjonen. Det er mange måter å ta betalt for fri programvare indirekte gjennom dobbelt software as a service, lisensiering eller begrensede funksjoner, mens man fremdeles overholder den offisielle definisjonen av fri programvare.
 
-### Kan jeg begrense hvordan folk bruker fri programvare?
+### Kan opphavsperson begrense hvordan folk bruker fri programvare?
 Nei. Friheten til å bruke programmet til ethvert formål er en del av grunnlaget for lisenser som defineres som fri programvare. Open fri programvare lisenser skiller ikke på type gjenbruk eller formål med gjenbruken.
 
 ### Kan jeg stoppe "onde krefter", eller mennesker jeg ikke mener skal ha mulighet fra å bruke programmet mitt?
