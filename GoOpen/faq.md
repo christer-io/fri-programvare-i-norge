@@ -1,14 +1,14 @@
-## Kan Fri programvare brukes til kommersielle formål?
+### Kan Fri programvare brukes til kommersielle formål?
 Absolutt. All Open Source-programvare kan brukes til kommersielle formål; Open Source Definition garanterer dette. Du kan til og med selge Open Source-programvare.
 
 Vær imidlertid oppmerksom på at kommersiell ikke er den samme som proprietær. Hvis du mottar programvare under en fri programvarelisens, kan du alltid bruke den programvaren til kommersielle formål, men det betyr ikke alltid at du kan legge ytterligere begrensninger på personer som mottar programvaren fra deg. 
 
 Spesielt krever fri programvare lisenser i kategorien copyleft at du distribuerer programvaren under den samme lisensen du mottok den under.
 
-## Kan jeg begrense hvordan folk bruker fri programvare?
+### Kan jeg begrense hvordan folk bruker fri programvare?
 Nei. Friheten til å bruke programmet til ethvert formål er en del av grunnlaget for lisenser som defineres som fri programvare. Open fri programvare lisenser skiller ikke på type gjenbruk eller formål med gjenbruken.
 
-## Kan jeg stoppe "onde krefter", eller mennesker jeg ikke mener skal ha mulighet fra å bruke programmet mitt?
+### Kan jeg stoppe "onde krefter", eller mennesker jeg ikke mener skal ha mulighet fra å bruke programmet mitt?
 Nei. fri programvare lisensene og definisjonene spesifiserer helt tydelig at man ikke kan diskriminere personer eller grupper. Å gi alle frihet betyr også å gi de med “onde hensikter” den samme friheten.
 
 ## Hva er "åpen kildekode", og er det det samme som "fri programvare"?
