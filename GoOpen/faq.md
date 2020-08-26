@@ -51,6 +51,6 @@ Hvis dette er første gang du velger en åpen kildekodelisens, anbefaler vi at d
 ___
 
 Denne siden inkluderer oversatt og endret innhold fra:
-https://opensource.org/faq
-https://opensource.guide/
+* https://opensource.org/faq
+* https://opensource.guide/
 
