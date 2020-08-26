@@ -34,3 +34,10 @@ En "permissive" lisens er ganske enkelt en fri programvarelisens som ikke er cop
 ### Kan jeg kalle programmvaren min "fri programvare" selv om jeg ikke bruker en godkjent lisens?
 Ikke gjør det. Vi anbefaler å bruke en lisens som enten er godkjent av FSF eller OSI. Hvis du kaller det fri programvare uten å bruke en godkjent lisens, vil du forvirre folk, og skape usikkerhet knyttet til validiteten av den programvaren du ønsker å dele.
 
+## Hvilken Fri programvarelisens skal jeg velge å frigi programvaren min under?
+Vi anbefaler at du velger en lisens som er godkjent enten av Free Software Foundation eller Open Source Initiative. De fleste velger en fra kategorien "populær", men du kan velge hvilken som helst listet lisens. Du finner listene her:
+* OSI: opensource.org/licenses
+* FSF: https://www.gnu.org/licenses/license-list.html
+
+Hvis dette er første gang du velger en åpen kildekodelisens, anbefaler vi at du finner noen som har erfaring med åpen kildekodelisensiering og snakker med dem om prosjektet ditt - som vil hjelpe deg å velge den mest passende lisensen. Personen trenger ikke å være advokat; det kan være en utvikler som har erfaring med å slippe åpen kildekode.
+
