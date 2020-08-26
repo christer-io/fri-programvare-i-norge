@@ -57,6 +57,9 @@ Hvis dette er første gang du velger en åpen kildekodelisens, anbefaler vi at d
 ### Betyr Fri programvare at noen andre kan bruke mitt navn og logo? 
 Nei, i alle fall ikke mer enn de ellers kunne. Open Source handler om programvare og kildekode, ikke om identitet. Det vil si at det å la folk bruke koden din under en Open Source-lisens ikke er det samme som å la dem bruke varemerkene eller andre identifiserende attributter. Det er mange selskaper og andre organisasjoner som gir ut åpen kildekode mens de utøver tydelig kontroll over sine varemerker.
 
+### Hvordan kan jeg delta i utviklingen av et fri programvare prosjekt? 
+De fleste fri programvare prosjekter organsieres via nettbaserte diskusjonsfora: adresselister, wikier, chatterom, Githubsider etc. Vi oppfordrer deg til å finne et prosjekt du bryr deg om, se på nettstedet deres for å se hva slags diskusjonsforum de bruker, og bli med på de forumene. Det vanlige neste trinn er å starte med et bidrag som for eksempel fikse en feil i koden, eller oversette tekst dersom det er relevant. Fri programvare prosjekter har ofte bruk for andre ressurser en bare de som kan programmere. 
+
 ___
 
 Denne siden inkluderer oversatt og endret innhold fra:
