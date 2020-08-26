@@ -22,7 +22,7 @@ Nei. fri programvare lisensene og definisjonene spesifiserer helt tydelig at man
 "Fri programvare" og "åpen kildekode" er to begreper som betyr mer eller mindre det samme: programvare utgitt under lisenser som garanterer et sett med friheter. 
 I Norge bruker vi begrepet Fri programvare. Dette dekker begge de engelske begrepene “Free software” og “Open source” og det norske begrepet "Åpen kildekode". 
 
-I perioden hvor bruken av fri programvare økte kraftig i Norge ble det etablerte et Nasjonalt senter for fri programvare. I forbindelse med dette ble bruk av begreper diskutert inngående. Dette resulterte i en bred enighet om at man ikke bruker begrepet åpen kildekode, men konsekvent bruker begrepet Fri programvare.
+I 2007 ble det etablerte et Nasjonalt senter for fri programvare. I forbindelse med dette ble sentrale begreper diskutert inngående. Dette resulterte i en bred enighet om at man ikke bruker begrepet åpen kildekode, men konsekvent bruker begrepet Fri programvare.
 
 ### Er kildekode jeg kan inspirere men ikke endre å regne som fri programvare?
 Nei. Uttrykket "åpen" ble tidligere brukt av noen miljøer om kildekode for å antyde at kildekoden bare er inspiserbar, synlig eller tilgjengelig. Både definisjonen fra OSI og FSF er tydelig på at fri programvare ikke bare skal gi inspeksjons tilgang, men også formidle evigvarende rett til å endre eller lage egne versjonen av kildekoden og bruke den uten kostnader.
