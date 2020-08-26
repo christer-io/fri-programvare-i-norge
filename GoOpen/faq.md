@@ -51,6 +51,9 @@ Vi anbefaler at du velger en lisens som er godkjent enten av Free Software Found
 
 Hvis dette er første gang du velger en åpen kildekodelisens, anbefaler vi at du finner noen som har erfaring med åpen kildekodelisensiering og snakker med dem om prosjektet ditt - som vil hjelpe deg å velge den mest passende lisensen. Personen trenger ikke å være advokat; det kan være en utvikler som har erfaring med å slippe åpen kildekode.
 
+### Betyr Fri programvare at noen andre kan bruke mitt navn og logo? 
+Nei, i alle fall ikke mer enn de ellers kunne. Open Source handler om programvare og kildekode, ikke om identitet. Det vil si at det å la folk bruke koden din under en Open Source-lisens ikke er det samme som å la dem bruke varemerkene eller andre identifiserende attributter. Det er mange selskaper og andre organisasjoner som gir ut åpen kildekode mens de utøver tydelig kontroll over sine varemerker.
+
 ___
 
 Denne siden inkluderer oversatt og endret innhold fra:
