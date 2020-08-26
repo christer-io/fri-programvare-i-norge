@@ -5,7 +5,7 @@ Vær imidlertid oppmerksom på at kommersiell ikke er den samme som proprietær 
 
 Spesielt krever fri programvare lisenser i kategorien "copyleft" at du distribuerer programvaren under den samme lisensen du mottok den under.
 
-## Er all fri programvare “gratis”?
+### Er all fri programvare “gratis”?
 En av fordlene med programvare delt under en fri lisens er at den i utgangspunktet ikke koster penger. “Gratis” er imidlertid mer et biprodukt av fri programvare og dens totale verdi.
 
 Fordi en fri programvare lisens krever at hvem som helst kan bruke, endre og dele koden for ethvert formål, har prosjekter selv en tendens til å være gratis. Hvis produkt som lages ut fra fri programvare koster penger å bruke, kan hvem som helst lovlig lage en kopi og bruke gratisversjonen i stedet.
@@ -41,7 +41,7 @@ En "permissive" lisens er ganske enkelt en fri programvarelisens som ikke er cop
 ### Kan jeg kalle programmvaren min "fri programvare" selv om jeg ikke bruker en godkjent lisens?
 Ikke gjør det. Vi anbefaler å bruke en lisens som enten er godkjent av FSF eller OSI. Hvis du kaller det fri programvare uten å bruke en godkjent lisens, vil du forvirre folk, og skape usikkerhet knyttet til validiteten av den programvaren du ønsker å dele.
 
-## Hvilken Fri programvarelisens skal jeg velge å frigi programvaren min under?
+### Hvilken Fri programvarelisens skal jeg velge å frigi programvaren min under?
 Vi anbefaler at du velger en lisens som er godkjent enten av Free Software Foundation eller Open Source Initiative. De fleste velger en fra kategorien "populær", men du kan velge hvilken som helst listet lisens. Du finner listene her:
 * OSI: https://opensource.org/licenses
 * FSF: https://www.gnu.org/licenses/license-list.html
