@@ -28,7 +28,7 @@ I 2007 ble det etablerte et Nasjonalt senter for fri programvare. I forbindelse 
 Nei. Uttrykket "åpen" ble tidligere brukt av noen miljøer om kildekode for å antyde at kildekoden bare er inspiserbar, synlig eller tilgjengelig. Både definisjonen fra OSI og FSF er tydelig på at fri programvare ikke bare skal gi inspeksjons tilgang, men også formidle evigvarende rett til å endre eller lage egne versjonen av kildekoden og bruke den uten kostnader.
 
 ### Finnes det noen definisjon på hva fri programvare er?
-Den originale definisjonen ble utviklet av Free Software Foundation(FSF). De har laget er en kort, fire-punkts definisjon av programvare friheter. Det er den samme som blir brukt i introduksjonen på GoOpen.no. Open Source Initiative(OSI) bruker en lengre, ti-punkts definisjon. De to definisjonene fører til samme resultat i praksis, men bruker overfladisk forskjellige språk for å definere noen grunnleggende prinsipper. 
+Den originale definisjonen ble utviklet av Free Software Foundation(FSF). De har laget er en kort, fire-punkts definisjon av programvare friheter. Det er den samme som blir brukt i vår introduksjon til Fri programvare. Open Source Initiative(OSI) bruker en lengre, ti-punkts definisjon. De to definisjonene fører til samme resultat i praksis, men bruker overfladisk forskjellige språk for å definere noen grunnleggende prinsipper. 
 * https://www.gnu.org/philosophy/free-sw.html 
 * https://opensource.org/osd
 
