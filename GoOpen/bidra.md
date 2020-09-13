@@ -50,12 +50,14 @@ Når det er sagt, følger mange open source-prosjekter en lignende organisasjons
 
 Et typisk open source-prosjekt har følgende typer mennesker:
 
-Forfatter: Personen / organisasjonene som opprettet prosjektet
-Eier: Personen / personene som har administrativt eierskap over organisasjonen eller depotet (ikke alltid det samme som den opprinnelige forfatteren)
-Vedlikeholdere: Bidragsytere som er ansvarlige for å drive visjonen og styre de organisatoriske aspektene av prosjektet (De kan også være forfattere eller eiere av prosjektet.)
-Bidragsytere: Alle som har bidratt med noe tilbake til prosjektet
-Samfunnsmedlemmer: Folk som bruker prosjektet. De kan være aktive i samtaler eller uttrykke sin mening om prosjektets retning
+* Forfatter: Personen / organisasjonene som opprettet prosjektet
+* Eier: Personen / personene som har administrativt eierskap over organisasjonen eller depotet (ikke alltid det samme som den opprinnelige forfatteren)
+* Vedlikeholdere: Bidragsytere som er ansvarlige for å drive visjonen og styre de organisatoriske aspektene av prosjektet (De kan også være forfattere eller eiere av prosjektet.)
+* Bidragsytere: Alle som har bidratt med noe tilbake til prosjektet
+* Samfunnsmedlemmer: Folk som bruker prosjektet. De kan være aktive i samtaler eller uttrykke sin mening om prosjektets retning
+
 Større prosjekter kan også ha underkomiteer eller arbeidsgrupper med fokus på forskjellige oppgaver, for eksempel verktøy, triage, samfunnsmoderering og organisering av arrangementer. Se på et prosjektets nettside for en "team" -side, eller i depotet for styringsdokumentasjon, for å finne denne informasjonen.
 
-Et prosjekt har også dokumentasjon. Disse filene er vanligvis oppført på øverste nivå i et depot.
+Et prosjekt har også vangligvis standard dokumentasjon. Disse filene er vanligvis oppført på øverste nivå i et kode-repo.
+
 
