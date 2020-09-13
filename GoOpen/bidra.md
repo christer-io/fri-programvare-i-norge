@@ -10,7 +10,7 @@ Mange bidragsytere til fri programvare starter med å være brukere av programva
 ### Utvikle egne ferdigheter og kompetanse
 Enten det er koding, design av brukergrensesnitt, grafisk design, skriving eller organisering, hvis du er ute etter praksis, vil du kunne spille en rolle i et fri programvare-prosjekt.
 
-### Få relevant erfaring på CVev   
+### Få relevant erfaring på CVen   
 Per definisjon er alt fri programvare arbeidet ditt offentlig, og det er derfor en fin måte å vise hva du kan og hva du har bidratt til.  
 
 ## Hvem kan bidra?
