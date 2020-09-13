@@ -58,6 +58,11 @@ Et typisk open source-prosjekt har følgende typer mennesker:
 
 Større prosjekter kan også ha underkomiteer eller arbeidsgrupper med fokus på forskjellige oppgaver, for eksempel verktøy, triage, samfunnsmoderering og organisering av arrangementer. Se på et prosjektets nettside for en "team" -side, eller i depotet for styringsdokumentasjon, for å finne denne informasjonen.
 
-Et prosjekt har også vangligvis standard dokumentasjon. Disse filene er vanligvis oppført på øverste nivå i et kode-repo.
+Et prosjekt har også vangligvis standard dokumentasjon. Disse filene er vanligvis oppført på øverste nivå i et kode-repo:
+* LISENS: Per definisjon må hvert open source-prosjekt ha en open source-lisens. Hvis prosjektet ikke har lisens, er det ikke åpen kildekode.
+* README: README er bruksanvisningen som ønsker nye medlemmer av samfunnet velkommen til prosjektet. Det forklarer hvorfor prosjektet er nyttig og hvordan du kommer i gang.
+* "CONTRIBUTING": Mens README hjelper folk å bruke prosjektet, bidrar "CONTRIBUTING" docs folk til å bidra til prosjektet. Den forklarer hvilke typer bidrag som er nødvendige og hvordan prosessen fungerer. Selv om ikke alle prosjekter har en "CONTRIBUTING" fil, signaliserer tilstedeværelsen at dette er et innbydende prosjekt å bidra til.
+* CODE_OF_CONDUCT: Kodeksen setter grunnleggende regler for deltakernes oppførsel assosiert og bidrar til å legge til rette for et vennlig og imøtekommende miljø. Selv om ikke alle prosjekter har en CODE_OF_CONDUCT-fil, signaliserer tilstedeværelsen at dette er et innbydende prosjekt å bidra til.
+Annen dokumentasjon: Det kan være tilleggsdokumentasjon, som veiledninger, gjennomganger eller styringspolitikk, spesielt på større prosjekter.
 
 
