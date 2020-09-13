@@ -41,4 +41,21 @@ Da kan du bidra til å gå gjennom koden fra andre som har bidratt
 Skriv utvikler-veiledninger for hvordan et prosjekt kan brukes og videreutvikles
 Tilbyr å veilede en annen bidragsyter
 
+## Hvordan er fri programvare prosjekter organisert?
+Alle fri programvare prosjekter er forskjellige.
+
+Bidrar du i årevis inn mot et fri programvare prosjekt betyr det at du har blitt kjent med det ene prosjektet. Ønsker du å bidra inn i et nytt prosjekt, vil du kanskje måtte lære helt nye termer og begreper. Organisering, normer og kommunikasjonsstil kan også være helt forskjellige.
+
+Når det er sagt, følger mange open source-prosjekter en lignende organisasjonsstruktur. Å forstå de forskjellige rollene i et community og den generelle prosessen vil hjelpe deg med å bli raskt orientert mot ethvert nytt prosjekt.
+
+Et typisk open source-prosjekt har følgende typer mennesker:
+
+Forfatter: Personen / organisasjonene som opprettet prosjektet
+Eier: Personen / personene som har administrativt eierskap over organisasjonen eller depotet (ikke alltid det samme som den opprinnelige forfatteren)
+Vedlikeholdere: Bidragsytere som er ansvarlige for å drive visjonen og styre de organisatoriske aspektene av prosjektet (De kan også være forfattere eller eiere av prosjektet.)
+Bidragsytere: Alle som har bidratt med noe tilbake til prosjektet
+Samfunnsmedlemmer: Folk som bruker prosjektet. De kan være aktive i samtaler eller uttrykke sin mening om prosjektets retning
+Større prosjekter kan også ha underkomiteer eller arbeidsgrupper med fokus på forskjellige oppgaver, for eksempel verktøy, triage, samfunnsmoderering og organisering av arrangementer. Se på et prosjektets nettside for en "team" -side, eller i depotet for styringsdokumentasjon, for å finne denne informasjonen.
+
+Et prosjekt har også dokumentasjon. Disse filene er vanligvis oppført på øverste nivå i et depot.
 
