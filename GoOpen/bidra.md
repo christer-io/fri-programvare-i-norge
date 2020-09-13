@@ -10,26 +10,35 @@ Mange bidragsytere til fri programvare starter med å være brukere av programva
 ### Utvikle egne ferdigheter og kompetanse
 Enten det er koding, design av brukergrensesnitt, grafisk design, skriving eller organisering, hvis du er ute etter praksis, vil du kunne spille en rolle i et fri programvare-prosjekt.
 
-### Bygge en CV   
+### Få relevant erfaring på CVev   
 Per definisjon er alt fri programvare arbeidet ditt offentlig, og det er derfor en fin måte å vise hva du kan og hva du har bidratt til.  
 
 ## Hvem kan bidra?
 En vanlig misforståelse rundt fri programvare er at du må kunne kode for å bidra. Faktisk er det ofte de andre delene av et prosjekt som er mest forsømt eller oversett. Du vil kunne gjøre en enorm forskjell ved å bidra på andre områder.
 
 ### Liker du å planlegge arrangementer?
-Organiser workshops eller møter om prosjektet, som @fzamperin gjorde for NodeSchool
-Organiser prosjektets konferanse (hvis de har en)
-
-Hjelp samfunnets medlemmer med å finne de rette konferansene og send inn forslag for å snakke
+Organiser workshops eller møter om prosjektet
+Du kan bidra til organiser prosjektets konferanse (hvis de har en)
 
 ### Liker du å designe?
-Omstillingsoppsett for å forbedre prosjektets brukervennlighet
-Gjør brukerundersøkelser for å omorganisere og avgrense prosjektets navigering eller menyer
-Sett sammen en stilguide for å hjelpe prosjektet med en konsistent visuell design
-Lag kunst for t-skjorter eller en ny logo, slik bidragsyterne til hapi.js gjorde
+Da kan du bidra med re-design eller inspill til prosjektets brukervennlighet
+Gjør brukertesting av prosjektets produkter med relevante målgrupper
+Noen ganger er det så konkret som å bidra med design av nye t-skjorter eller en ny logo
 
 ### Liker du å skrive?
-Skriv og forbedre prosjektets dokumentasjon. Lag en mappe med eksempler som viser hvordan prosjektet brukes
-Start et nyhetsbrev for prosjektet, eller kurater høydepunkter fra adresselisten
-Skriv opplæringsprogrammer for prosjektet, slik PyPAs bidragsytere gjorde
-Skriv en oversettelse for prosjektets dokumentasjon
+Skriv og forbedre prosjektets dokumentasjon, eller bidra med eksempler som viser hvordan prosjektet brukes
+Start et nyhetsbrev for prosjektet
+Skriv tutorials for prosjektet
+Bidra til oversettelse av prosjektets dokumentasjon til nye språk
+
+### Liker du å kode?
+Koding er selvsagt viktig i alle fri programvare prosjekter
+Første bidrag kan være at du finner en feil i koden, og bidrar til å forbedre den
+Det er selvsagt andre elementer rundt selve koden hvor man kan bidra, som for eksemmpel verktøy for testing og monitorering av driftsmiljø
+
+### Liker du å hjelpe andre med å kode?
+Da kan du bidra til å gå gjennom koden fra andre som har bidratt
+Skriv utvikler-veiledninger for hvordan et prosjekt kan brukes og videreutvikles
+Tilbyr å veilede en annen bidragsyter
+
+
